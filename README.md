@@ -1,18 +1,3 @@
-![](http://ww1.sinaimg.cn/large/005Xtdi2jw1f6307cu3krj30rs05kglz.jpg)
-
-### 作者微博: [@GcsSloop](http://weibo.com/GcsSloop)
-
-我的安卓学习笔记，记录学习过程中遇到的问题,以及我的一些经验总结。如果出现链接失效等情况可以提交 Issues 提醒我修改相关内容。
-
-> #### PS:点击分类标题可以查看该分类的详细信息。 
-
-## [博客](http://www.gcssloop.com/#blog "GcsSloop的博客")
-
-我的个人博客，在博客中可以获得更好的阅读体验，同时在博客的评论区可以更及时的向我反馈文章中的问题。
-
-<a href="http://www.gcssloop.com/#blog" target="_blank"> <img src="http://ww1.sinaimg.cn/large/005Xtdi2jw1f70uy1873sj315o0dwae0.jpg" width="300"/> </a>
-
-******
 
 <p id="custom_view" />
 
